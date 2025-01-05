@@ -63,6 +63,8 @@ echo $best_friends[4];
 $name=NULL;
 echo var_dump($name);
 
+//var_dump is for : to check the type of data
+
 
 
 
