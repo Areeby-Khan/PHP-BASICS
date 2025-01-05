@@ -34,7 +34,7 @@ $a=$b=30;
 echo $a;
 echo "<br>";
 echo $b;
-
+echo "Varialbes";
 
 
 ?>
